@@ -1,0 +1,1 @@
+export const WEATHERMAP_API_KEY = '<API_KEY>'
